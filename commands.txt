@@ -37,3 +37,5 @@ command is used to set this default remote repository for your local repository.
 12.git push upstream <branch_name>
 
 13. git pull origin <branch_name>
+
+14. git git rebase <main_branche_name> ( used in branch other than the main branch and it is used to )
